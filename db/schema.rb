@@ -17,10 +17,10 @@ ActiveRecord::Schema.define(version: 20140815101323) do
     t.string   "first_name",      limit: 25
     t.string   "last_name",       limit: 50
     t.string   "email",           limit: 100, default: "", null: false
-    t.string   "hashed_password", limit: 40
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "username",        limit: 25
+    t.string   "password_digest"
   end
 
   add_index "admin_users", ["username"], name: "index_admin_users_on_username"

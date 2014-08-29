@@ -4,10 +4,12 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/rails_projects/simple_cms/app/helpers/application_helper.rb</file>
-            <file>file:/C:/rails_projects/simple_cms/app/controllers/subjects_controller.rb</file>
-            <file>file:/C:/rails_projects/simple_cms/app/controllers/sections_controller.rb</file>
-            <file>file:/C:/rails_projects/simple_cms/app/views/subjects/_form.html.erb</file>
-            <file>file:/C:/rails_projects/simple_cms/app/helpers/pages_helper.rb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/views/sections/_form.html.erb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/views/pages/new.html.erb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/controllers/application_controller.rb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/views/sections/new.html.erb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/models/admin_user.rb</file>
+            <file>file:/C:/rails_projects/simple_cms/app/views/pages/_form.html.erb</file>
             <file>file:/C:/rails_projects/simple_cms/app/controllers/pages_controller.rb</file>
         </group>
     </open-files>
